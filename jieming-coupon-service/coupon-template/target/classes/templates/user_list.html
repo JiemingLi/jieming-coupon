@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-CN" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <script type="text/javascript" th:src="@{https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js}"></script>
+    <link th:href="@{https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css}" rel="stylesheet"/>
+    <link th:href="@{/css/default.css}" rel="stylesheet"/>
+    <link rel="icon" th:href="@{/images/favicon.ico}" type="image/x-icon"/>
+    <meta charset="UTF-8"/>
+    <title>用户列表</title>
+    <style>
+        .center {
+            text-align:center;
+        }
+        table,td,th
+        {
+            text-align:center;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="contentDiv">
+
+    <h2 class="center"> 用户列表 </h2>
+
+    <table class="table table-hover table-condensed">
+        <legend>
+            <strong>用户列表</strong>
+        </legend>
+        <thead>
+        <tr>
+            <th>id</th>
+            <th>账号</th>
+            <th>密码</th>
+            <th>名字</th>
+            <th>角色</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:each="user : ${allUsers}">
+            <th scope="row" th:text="${user.id}"></th>
+            <td th:text="${user.account}"></td>
+            <td th:text="${user.password}"></td>
+            <td th:text="${user.name}"></td>
+            <td th:text="${user.level}"></td>
+<!--            <td><a class="btn btn-danger" th:href="@{/template/thy/info/)}">详情</a></td>-->
+        </tr>
+        </tbody>
+    </table>
+
+    <div class="center"><a class="btn btn-primary" href="/coupon-template/template/thy/create" role="button">创建优惠券模板</a></div>
+</div>
+
+</body>
+</html>

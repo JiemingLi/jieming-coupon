@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <script type="text/javascript" th:src="@{https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js}"></script>
+    <link th:href="@{https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css}" rel="stylesheet"/>
+    <link th:href="@{/css/default.css}" rel="stylesheet"/>
+    <link rel="icon" th:href="@{/images/favicon.ico}" type="image/x-icon"/>
+    <meta charset="UTF-8"/>
+    <title>使用记录</title>
+    <style>
+        .center {
+            text-align:center;
+        }
+        table,td,th
+        {
+            text-align:center;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="contentDiv">
+
+    <h2 class="center"> 使用记录 </h2>
+
+    <table class="table table-hover table-condensed">
+        <legend>
+            <strong>使用记录列表</strong>
+        </legend>
+        <thead>
+        <tr>
+            <th>用户</th>
+            <th>模板ID</th>
+            <th>状态</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:each="info : ${loginfos}">
+            <td th:text="${info.userId}"></td>
+            <td th:text="${info.templateId}"></td>
+            <td th:text="${info.status}"></td>
+            <td><a class="btn btn-danger"
+                   th:href="@{/distribution/thy/template/info}">详情</a></td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+</body>
+</html>

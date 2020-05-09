@@ -1,0 +1,1239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca3d72f6-4315-4d00-89ef-85cbcc2e2f97" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/coupon-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-coupon-service/coupon-common/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-coupon-service/coupon-template/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-coupon-service/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-coupon-service/coupon-distribution/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-coupon-service/coupon-settlement/target/" />
+    <ignored path="$PROJECT_DIR$/coupon-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/jieming-coupon-service/coupon-common/target/" />
+    <ignored path="$PROJECT_DIR$/jieming-coupon-service/target/" />
+    <ignored path="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/target/" />
+    <ignored path="$PROJECT_DIR$/jieming-coupon-service/coupon-settlement/target/" />
+    <ignored path="$PROJECT_DIR$/jieming-coupon-service/coupon-template/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/templates/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/static/js/footer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/resources/templates/loginfos_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/thymeleaf/ThyTemplateController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="70" column="7" lean-forward="true" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/schedule/ScheduledTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="958">
+              <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
+              <folding>
+                <element signature="e#773#774#0" expanded="true" />
+                <element signature="e#819#820#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/service/impl/KafkaServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="94" column="33" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coupon-gateway/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coupon-gateway/src/main/java/com/jieming/coupon/service/IRedisService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coupon-gateway/src/main/java/com/jieming/coupon/service/impl/RedisServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/controller/UserServiceController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="119" column="1" lean-forward="true" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>able</find>
+      <find>findavai</find>
+      <find>acquire</find>
+      <find>retain2</find>
+      <find>Settlement</find>
+      <find>SettlementInfo</find>
+      <find>addCouponToCacheForExpired</find>
+      <find>updateCacheTemplate</find>
+      <find>addCou</find>
+      <find>Find Available Template</find>
+      <find>Receive CouponKafkaMessage</find>
+      <find>kafkaTemplate</find>
+      <find>updateCouponStatus</find>
+      <find>imooc</find>
+      <find>users</find>
+      <find>getRandomExpirationTime</find>
+      <find>Get Coupons From Cache</find>
+      <find>template</find>
+      <find>redisTemplate</find>
+      <find>dead</find>
+      <find>Add Coupon From Expired To Cache For Usable</find>
+      <find>Pipeline Exe Result</find>
+      <find>CouponKafkaMessage Op Coupon Count</find>
+      <find>kafka</find>
+      <find>userId</find>
+      <find>Settlement:</find>
+      <find>th:</find>
+      <find>这里</find>
+      <find>checkall</find>
+      <find>couponDao</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/thymeleaf/ThyCouponInfo.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/dao/CouponDao.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/pom.xml" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/pom.xml" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/templates/users_coupon_list.html" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/resources/templates/users_coupon_list.html" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/templates/template_form.html" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/resources/templates/template_list.html" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/controller/CouponTemplateController.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/vo/TemplateUpdateInfo.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/feign/DistributionClient.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/vo/TemplateUpdateInfo.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/thymeleaf/ThyCreateTemplate.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/thymeleaf/ThyTemplateInfo.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/test/java/com/jieming/coupon/service/BuildTemplateTest.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/service/IRedisService.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/vo/TemplateRequest.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/service/impl/BuildTemplateServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/templates/template_update.html" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/service/impl/RedisServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/vo/ObjectParams.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/service/ITemplateBaseService.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/resources/templates/template_test.html" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/resources/templates/user_coupon_list.html" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/vo/UseCouponObj.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/config/MyWebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/resources/templates/template_cart.html" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/templates/template_add.html" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/templates/template_sub.html" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/templates/template_list.html" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-common/pom.xml" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/service/impl/AsyncServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/schedule/ScheduledTask.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/vo/LogInfo.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/dao/UseInfoDao.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/templates/home.html" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/entity/User.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/test/java/com/jieming/coupon/service/TemplateBaseTest.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/test/java/com/jieming/coupon/service/UserServiceTest.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/service/impl/KafkaServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/entity/UseInfo.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/controller/UserServiceController.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/thymeleaf/ThyDistributionController.java" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/templates/user_list.html" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/resources/templates/loginfos_list.html" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/resources/templates/useinfos_list.html" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/static/js/footer.js" />
+        <option value="$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/thymeleaf/ThyTemplateController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="386" />
+    <option name="y" value="627" />
+    <option name="width" value="1936" />
+    <option name="height" value="785" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jieming-coupon" type="58d84e3e:PackageViewProjectNode" />
+              <item name="coupon-distribution" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jieming-coupon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-coupon-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-coupon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-coupon-service" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon-distribution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-coupon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-coupon-service" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon-distribution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-coupon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-coupon-service" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon-distribution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-coupon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-coupon-service" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon-distribution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-coupon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-coupon-service" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon-distribution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-coupon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-coupon-service" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon-distribution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-coupon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-coupon-service" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon-distribution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-coupon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-coupon-service" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon-template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-coupon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-coupon-service" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-coupon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-coupon-service" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-coupon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-coupon-service" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-coupon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-coupon-service" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jieming-coupon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jieming-coupon-service" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon" type="462c0819:PsiDirectoryNode" />
+              <item name="thymeleaf" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/resources/templates" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jieming.coupon.vo" />
+      <recent name="com.jieming.coupon.constant" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2020毕业设计\jieming-coupon\jieming-coupon-service\coupon-distribution\src\main\resources\templates" />
+      <recent name="D:\2020毕业设计\jieming-coupon\jieming-coupon-service\coupon-distribution\src\main\resources\static" />
+      <recent name="D:\2020毕业设计\jieming-coupon\jieming-coupon-service\coupon-distribution\src\main\java\com\jieming\coupon" />
+      <recent name="D:\2020毕业设计\jieming-coupon\jieming-coupon-service\coupon-distribution\src\main\resources" />
+      <recent name="D:\2020毕业设计\jieming-coupon\jieming-coupon-service\coupon-template\src\main\java\com\jieming\coupon" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:7001/coupon-template/template/find/left" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DistributionApplication">
+    <configuration name="BuildTemplateTest.testUpdateCouponTemplate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jieming.coupon.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jieming.coupon.service" />
+      <option name="MAIN_CLASS_NAME" value="com.jieming.coupon.service.BuildTemplateTest" />
+      <option name="METHOD_NAME" value="testUpdateCouponTemplate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateBaseTest.getAllUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jieming.coupon.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jieming.coupon.service" />
+      <option name="MAIN_CLASS_NAME" value="com.jieming.coupon.service.TemplateBaseTest" />
+      <option name="METHOD_NAME" value="getAllUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.testExpired" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon-distribution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jieming.coupon.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jieming.coupon.service" />
+      <option name="MAIN_CLASS_NAME" value="com.jieming.coupon.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="testExpired" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.testFindCouponByStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon-distribution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jieming.coupon.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jieming.coupon.service" />
+      <option name="MAIN_CLASS_NAME" value="com.jieming.coupon.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="testFindCouponByStatus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.testStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon-distribution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jieming.coupon.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jieming.coupon.service" />
+      <option name="MAIN_CLASS_NAME" value="com.jieming.coupon.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="testStatus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistributionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-distribution" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jieming.coupon.DistributionApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jieming.coupon.EurekaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SettlementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-settlement" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jieming.coupon.SettlementApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-template" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jieming.coupon.TemplateApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jieming.coupon.ZuulGatewayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BuildTemplateTest.testUpdateCouponTemplate" />
+      <item itemvalue="JUnit.UserServiceTest.testFindCouponByStatus" />
+      <item itemvalue="JUnit.UserServiceTest.testExpired" />
+      <item itemvalue="JUnit.TemplateBaseTest.getAllUsers" />
+      <item itemvalue="JUnit.UserServiceTest.testStatus" />
+      <item itemvalue="Spring Boot.DistributionApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.SettlementApplication" />
+      <item itemvalue="Spring Boot.TemplateApplication" />
+      <item itemvalue="Spring Boot.ZuulGatewayApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceTest.testStatus" />
+        <item itemvalue="JUnit.TemplateBaseTest.getAllUsers" />
+        <item itemvalue="JUnit.UserServiceTest.testFindCouponByStatus" />
+        <item itemvalue="JUnit.UserServiceTest.testExpired" />
+        <item itemvalue="JUnit.BuildTemplateTest.testUpdateCouponTemplate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca3d72f6-4315-4d00-89ef-85cbcc2e2f97" name="Default Changelist" comment="" />
+      <created>1585043016950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585043016950</updated>
+      <workItem from="1585043019978" duration="998000" />
+      <workItem from="1585046383773" duration="351000" />
+      <workItem from="1585046822946" duration="73000" />
+      <workItem from="1585046933563" duration="106000" />
+      <workItem from="1585047334518" duration="1006000" />
+      <workItem from="1585048996544" duration="395000" />
+      <workItem from="1585193918818" duration="26000" />
+      <workItem from="1585193979820" duration="65000" />
+      <workItem from="1585194080478" duration="8588000" />
+      <workItem from="1585287051548" duration="8829000" />
+      <workItem from="1585369777870" duration="7843000" />
+      <workItem from="1585382661238" duration="451000" />
+      <workItem from="1585639626109" duration="9920000" />
+      <workItem from="1585674276724" duration="22000" />
+      <workItem from="1585674380261" duration="9554000" />
+      <workItem from="1585728403776" duration="2095000" />
+      <workItem from="1586507555458" duration="8093000" />
+      <workItem from="1586585856316" duration="9969000" />
+      <workItem from="1586679772356" duration="2520000" />
+      <workItem from="1586770360488" duration="10052000" />
+      <workItem from="1587017742543" duration="14693000" />
+      <workItem from="1587106481879" duration="16024000" />
+      <workItem from="1587182197305" duration="12339000" />
+      <workItem from="1587299291837" duration="6856000" />
+      <workItem from="1587542253330" duration="2160000" />
+      <workItem from="1587546853100" duration="4112000" />
+      <workItem from="1587713619588" duration="3826000" />
+      <workItem from="1587788504532" duration="5954000" />
+      <workItem from="1587879925206" duration="9639000" />
+      <workItem from="1587963505942" duration="14587000" />
+      <workItem from="1588001401080" duration="5866000" />
+      <workItem from="1588036662719" duration="35831000" />
+      <workItem from="1588079271947" duration="8222000" />
+      <workItem from="1588137102734" duration="3821000" />
+      <workItem from="1588145242734" duration="5622000" />
+      <workItem from="1588229229565" duration="721000" />
+      <workItem from="1588231124898" duration="9975000" />
+      <workItem from="1588305021085" duration="24188000" />
+      <workItem from="1588389694449" duration="23624000" />
+      <workItem from="1588484713866" duration="21939000" />
+      <workItem from="1588560798834" duration="1554000" />
+      <workItem from="1588572951936" duration="25175000" />
+      <workItem from="1588652994825" duration="3498000" />
+      <workItem from="1588668891500" duration="229000" />
+      <workItem from="1588831746713" duration="4650000" />
+      <workItem from="1588857917528" duration="3893000" />
+      <workItem from="1588913049912" duration="8938000" />
+      <workItem from="1588990930182" duration="19984000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserServiceTest_testExpired - 2020.05.02 at 22h 24m 18s.xml">
+      <configuration name="UserServiceTest.testExpired" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_testExpired - 2020.05.02 at 22h 53m 16s.xml">
+      <configuration name="UserServiceTest.testExpired" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_testExpired - 2020.05.02 at 22h 54m 53s.xml">
+      <configuration name="UserServiceTest.testExpired" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_testFindCouponByStatus - 2020.05.04 at 17h 46m 37s.xml">
+      <configuration name="UserServiceTest.testFindCouponByStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_testFindCouponByStatus - 2020.05.04 at 17h 53m 17s.xml">
+      <configuration name="UserServiceTest.testFindCouponByStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_testFindCouponByStatus - 2020.05.04 at 17h 58m 41s.xml">
+      <configuration name="UserServiceTest.testFindCouponByStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_testFindCouponByStatus - 2020.05.04 at 18h 00m 37s.xml">
+      <configuration name="UserServiceTest.testFindCouponByStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemplateBaseTest_getAllUsers - 2020.05.08 at 14h 30m 34s.xml">
+      <configuration name="TemplateBaseTest.getAllUsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_testStatus - 2020.05.08 at 14h 42m 33s.xml">
+      <configuration name="UserServiceTest.testStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_testStatus - 2020.05.08 at 14h 48m 23s.xml">
+      <configuration name="UserServiceTest.testStatus" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="378876000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49758455" visible="true" weight="0.36663067" />
+      <window_info id="Structure" order="1" sideWeight="0.5024155" side_tool="true" weight="0.25269395" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28032038" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43020594" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32915717" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3297414" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49758455" visible="true" weight="0.24730022" />
+      <window_info id="Structure" order="1" sideWeight="0.5024155" side_tool="true" weight="0.25269395" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3935927" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45102507" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32915717" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3297414" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/vo/TemplateRequest.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/service/impl/UserServiceImpl.java</url>
+          <line>389</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/service/impl/UserServiceImpl.java</url>
+          <line>401</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/thymeleaf/ThyDistributionController.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/thymeleaf/ThyDistributionController.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/thymeleaf/ThyDistributionController.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/controller/RibbonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1530" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/vo/CouponKafkaMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="12" selection-start-line="12" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/converter/CouponStatusConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/entity/CouponTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/thymeleaf/ThyTemplateInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/serialization/CouponSerialize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/entity/Coupon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="48" column="47" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/dao/CouponDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/dao/UseInfoDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-common/src/main/java/com/jieming/coupon/vo/SettlementInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-common/src/main/java/com/jieming/coupon/vo/CouponTemplateSDK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/test/java/com/jieming/coupon/service/UserServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/test/java/com/jieming/coupon/service/BuildTemplateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/test/java/com/jieming/coupon/service/TemplateBaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="44" column="30" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/service/IBuildTemplateService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/service/impl/BuildTemplateServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="87" column="33" lean-forward="true" selection-start-line="87" selection-start-column="33" selection-end-line="87" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/service/IAsyncService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/service/impl/AsyncServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1694">
+          <caret line="76" column="71" lean-forward="true" selection-start-line="76" selection-start-column="71" selection-end-line="76" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/service/impl/RedisServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/service/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="401" selection-start-line="401" selection-end-line="401" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="33" selection-start-line="17" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/controller/CouponTemplateController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/dao/CouponTemplateDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="40" column="54" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/thymeleaf/ThyTemplateInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/templates/template_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1054">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/resources/templates/users_coupon_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="50" column="12" lean-forward="true" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/resources/templates/template_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/templates/users_coupon_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/entity/UseInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/vo/LogInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/thymeleaf/ThyDistributionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="74" column="39" lean-forward="true" selection-start-line="74" selection-start-column="39" selection-end-line="74" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/resources/templates/user_coupon_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/resources/templates/useinfos_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="45" column="61" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/templates/user_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="40" column="38" lean-forward="true" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/resources/templates/loginfos_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/controller/UserServiceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="119" column="1" lean-forward="true" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/static/coupon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/resources/static/js/footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coupon-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coupon-gateway/src/main/java/com/jieming/coupon/service/IRedisService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coupon-gateway/src/main/java/com/jieming/coupon/service/impl/RedisServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/thymeleaf/ThyTemplateController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="70" column="7" lean-forward="true" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-template/src/main/java/com/jieming/coupon/schedule/ScheduledTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="958">
+          <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
+          <folding>
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jieming-coupon-service/coupon-distribution/src/main/java/com/jieming/coupon/service/impl/KafkaServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="94" column="33" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+{
+  "code": 0,
+  "message": "",
+  "data": {
+    "timestamp": 1588253586637,
+    "status": 400,
+    "error": "Bad Request",
+    "message": "Required String parameter 'category' is not present",
+    "path": "/coupon-template/template/find/left"
+  }
+}
